@@ -1,0 +1,7 @@
+D:\2018程式作業\20180728\chrismas tree\chrismas tree\obj\Debug\chrismas tree.csprojAssemblyReference.cache
+D:\2018程式作業\20180728\chrismas tree\chrismas tree\obj\Debug\chrismas tree.csproj.CoreCompileInputs.cache
+D:\2018程式作業\20180728\chrismas tree\chrismas tree\bin\Debug\chrismas tree.exe.config
+D:\2018程式作業\20180728\chrismas tree\chrismas tree\bin\Debug\chrismas tree.exe
+D:\2018程式作業\20180728\chrismas tree\chrismas tree\bin\Debug\chrismas tree.pdb
+D:\2018程式作業\20180728\chrismas tree\chrismas tree\obj\Debug\chrismas tree.exe
+D:\2018程式作業\20180728\chrismas tree\chrismas tree\obj\Debug\chrismas tree.pdb
